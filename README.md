@@ -1,0 +1,2 @@
+# spacemacs
+line count cmd
